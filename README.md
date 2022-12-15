@@ -1,1 +1,1 @@
-# nci-dmap-test
+# platform-capability-testing
